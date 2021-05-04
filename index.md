@@ -5,9 +5,8 @@
 부득이 참석하지 못하신 분들께도 학급교육과정 이해에 도움을 드리고자 이 챗봇을 제작하였습니다.  
 이 챗봇을 활용하시어 학급교육과정에 대해 궁금한 점들을 해결하실 수 있으시기를 바랍니다.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 챗봇의 주요 기능
+이 챗봇에서 알아보실 수 있는 항목들은 다음과 같습니다.
 
 ```markdown
 Syntax highlighted code block
@@ -26,13 +25,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fgh19/63_2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
