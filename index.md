@@ -1,8 +1,9 @@
 # 2021학년도 6학년 3반 학급교육과정설명회 챗봇
-
-You can use the [editor on GitHub](https://github.com/fgh19/63_2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 석천초등학교 6학년 3반 학부모님들께
+안녕하세요? 6학년 3반 담임교사입니다.
+바쁘신 시간 내주시어 학급교육과정설명회에 참석해주신 학부모님들께 감사의 말씀을 드립니다.
+부득이 참석하지 못하신 분들께도 학급교육과정 이해에 도움을 드리고자 이 챗봇을 제작하였습니다.
+이 챗봇을 활용하시어 학급교육과정에 대해 궁금한 점들을 해결하실 수 있으시기를 바랍니다.
 
 ### Markdown
 
