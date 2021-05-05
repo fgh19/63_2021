@@ -5,7 +5,7 @@
 학급교육과정 이해에 도움을 드리고자 이 챗봇을 제작하였습니다.  
 이 챗봇을 활용하시어 학급교육과정에 대해 궁금한 점들을 해결하실 수 있으시기를 바랍니다.
 
-![image](https://user-images.githubusercontent.com/81296926/117126575-e5349580-add5-11eb-8741-590bf7c7616e.png) ### "방울이" 챗봇의 주요 기능
+### "방울이" 챗봇의 주요 기능 ![image](https://user-images.githubusercontent.com/81296926/117126575-e5349580-add5-11eb-8741-590bf7c7616e.png)
 이 챗봇에서 알아보실 수 있는 학급교육과정 정보는 다음과 같습니다.
 
 ```markdown
