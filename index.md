@@ -15,4 +15,4 @@
 4. 담임교사의 협조 부탁 사항
 5. 질의 응답
 ```
-![image](https://user-images.githubusercontent.com/81296926/117126143-50ca3300-add5-11eb-9235-75f826a9af70.png)
+![image](https://user-images.githubusercontent.com/81296926/117126324-92f37480-add5-11eb-821a-dd20557dcf09.png)
