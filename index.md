@@ -9,21 +9,11 @@
 이 챗봇에서 알아보실 수 있는 학급교육과정 정보는 다음과 같습니다.
 
 ```markdown
-Syntax highlighted code block
 
-# 담임교사 소개
-## 6학년 3반 학급 소개
-### 6학년 교육과정 안내
-#### 담임교사의 협조 부탁 사항
-##### 질의 응답
+1. 담임교사 소개
+2. 6학년 3반 학급 소개
+3. 6학년 교육과정 안내
+4. 담임교사의 협조 부탁 사항
+5. 질의 응답
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
